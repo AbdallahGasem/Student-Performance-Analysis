@@ -14,6 +14,7 @@ The dataset contains **5,000 records** with the following key attributes:
 
 ### Dataset Source
 The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset).
+Kaggle Notebook [kaggle](https://www.kaggle.com/code/abdallahgasemelsayed/student-performance-analysis)
 
 ---
 
@@ -130,6 +131,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 - Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset).
-- Special thanks to [DEPI X EYOUTH](https://example.com) for organizing the challenge. 
+- Special thanks to **DEPI X EYOUTH** for organizing the challenge. 
