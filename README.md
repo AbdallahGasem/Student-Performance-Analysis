@@ -25,9 +25,9 @@ student-performance-analysis/
 │   ├── Students_Grading_Dataset.csv          # Raw dataset
 │   └── cleaned_students_data.csv             # Cleaned dataset
 ├── notebooks/
-│   └── Student_Performance_Analysis.ipynb    # Jupyter Notebook for EDA
+│   └── EDA.ipynb    # Jupyter Notebook for EDA
 ├── reports/
-│   └── Student_Performance_Report.pdf        # Final report (if applicable)
+│   └── StudentPerformanceAnalysis-Presentation.pdf        # Final report
 ├── README.md                                 # Project documentation
 ```
 
@@ -35,7 +35,7 @@ student-performance-analysis/
 
 ## Getting Started
 ### Prerequisites
-- Python 3.x
+- Python 3.11
 - Jupyter Notebook
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
 
@@ -113,7 +113,7 @@ student-performance-analysis/
 
 ---
 
-## Files
+## Analysis Files
 - **`Student_Performance_Analysis.ipynb`**: Jupyter Notebook containing the full analysis.
 - **`Students_Grading_Dataset.csv`**: Raw dataset.
 - **`cleaned_students_data.csv`**: Cleaned dataset after preprocessing.
